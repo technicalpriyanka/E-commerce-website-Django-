@@ -1,5 +1,7 @@
 # E-commerce-website-Django-
-online platform that facilitates buying and selling goods and services
+An e-commerce website is a digital platform designed to facilitate the buying and selling of goods and services online. It allows businesses to showcase their products, manage inventory, and provide a seamless shopping experience to customers
+
+Steps to buils e cpmmerce website:
 
 Step 1: Install virtualenv
 pip install virtualenv 
